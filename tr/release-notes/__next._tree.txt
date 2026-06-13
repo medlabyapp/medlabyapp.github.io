@@ -1,0 +1,4 @@
+:HL["/_next/static/chunks/20-9hc0ijo4zu.css","style"]
+:HL["/_next/static/media/1b99372b3eaef0c8-s.p.1gsd1jahc5dg_.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/logo.svg","image"]
+0:{"tree":{"name":"","param":null,"prefetchHints":0,"slots":{"children":{"name":"lang","param":{"type":"d","key":"tr","siblings":null},"prefetchHints":16,"slots":{"children":{"name":"release-notes","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"287O2LsKxcQrMUmG6GOTv"}

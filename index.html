@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Redirecting...</title>
+  <meta http-equiv="refresh" content="0; url=/en">
+  <script>
+    // Optional: detect browser language and redirect appropriately
+    var userLang = navigator.language || navigator.userLanguage;
+    if (userLang.startsWith('tr')) {
+      window.location.replace('/tr');
+    } else {
+      window.location.replace('/en');
+    }
+  </script>
+</head>
+<body>
+  Redirecting...
+</body>
+</html>

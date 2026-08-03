@@ -4,7 +4,9 @@
     "namespace": "android_app",
     "package_name": "com.medlaby.app",
     "sha256_cert_fingerprints": [
-      "BURAYA_GOOGLE_PLAY_CONSOLEDAN_ALACAGIN_SHA256_KODUNU_YAPISTIR"
+      "53:5E:A3:EC:06:94:11:66:86:25:89:50:36:57:98:17:F7:07:52:84:56:06:51:2D:18:35:F8:3A:EB:7D:34:07",
+      "32:7D:B9:B5:05:E6:C0:8D:38:D7:E8:CB:55:01:F4:24:38:D7:2E:1F:FA:6B:22:C8:96:44:BC:3E:46:4B:63:5A",
+      "6E:06:46:65:21:CF:6F:05:29:5E:63:33:BD:D7:F3:6A:C3:30:35:72:4E:76:3E:41:5C:D9:17:B6:9C:DA:15:F6"
     ]
   }
 }]
